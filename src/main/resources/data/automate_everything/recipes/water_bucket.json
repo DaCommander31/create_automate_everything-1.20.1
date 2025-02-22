@@ -1,0 +1,12 @@
+{
+  "type": "automate_everything:freezing",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "minecraft:ice"
+  }
+}
